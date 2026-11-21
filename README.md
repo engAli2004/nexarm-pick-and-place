@@ -7,6 +7,10 @@ for **ISO 9283 accuracy and repeatability**.
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Tests](https://img.shields.io/badge/FSM%20tests-13%2F13%20passing-brightgreen)
 
+
+https://github.com/user-attachments/assets/af337ee2-c5f9-487e-882c-b58bfe5e973d
+
+
 <p align="center">
   <img src="docs/images/cell.jpg" width="32%" alt="The NexArm above the work board">
   <img src="docs/images/gripper.jpg" width="32%" alt="The gripper holding the part at station A">

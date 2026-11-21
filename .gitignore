@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Created at run time
+python/logs/
+python/cell_config.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
